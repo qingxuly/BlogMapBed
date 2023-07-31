@@ -1,0 +1,2 @@
+# BlogResource
+Blog Map Bed.
