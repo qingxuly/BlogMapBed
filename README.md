@@ -1,2 +1,2 @@
-# BlogResource
-Blog Map Bed.
+# BlogMapBed
+Typora uploads images to blogs.
